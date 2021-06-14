@@ -21,19 +21,19 @@ Hi, I'm Edgardo Gonzalez, a passionate self-taught java developer from Panama.
 --->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/buster52/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=buster52&show_icons=true&include_all_commits=true&theme=radical" alt="Buster52's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/buster52/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buster52&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/buster52/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buster52&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/buster52/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=buster52&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buster52&repo=anuraghazra.github.io&theme=radical" />
 </a>
