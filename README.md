@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buster</h1>
 <h3 align="center">A passionate developer from Panama</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buster52&theme=radical" alt="buster52" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buster52&theme=radical" alt="buster52" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
