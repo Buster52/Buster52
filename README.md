@@ -21,5 +21,5 @@ Hi, I'm Edgardo Gonzalez, a passionate self-taught java developer from Panama.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buster52&layout=compact&theme=radical" />
 </a>
 <br/><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buster52&theme=radical" alt="buster52" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buster52&theme=radical" alt="buster52" /></p>
 
