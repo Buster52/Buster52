@@ -18,7 +18,7 @@ Hi, I'm Edgardo Gonzalez, a passionate self-taught java developer from Panama.
 </a>
 <a href=#>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buster52&layout=compact&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buster52&layout=compact&theme=radical" />
 </a>
 <br/><br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buster52&theme=radical" alt="buster52" /></p>
