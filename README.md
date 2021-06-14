@@ -24,5 +24,5 @@ Hi, I'm Edgardo Gonzalez, a passionate self-taught java developer from Panama.
 
 <p>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=buster52&theme=radical&hide_border=true)](https://git.io/streak-stats)
-  </p<
+ </p>
 
